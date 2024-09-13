@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @prince98988
-- 👀 I’m interested in Web development and mobile app development;
--     I'm interested in cloud computing;
-- 🌱 I’m currently enhancing my coding skills  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Prince!
 
-<!---
-prince98988/prince98988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Full Stack Developer with hands-on experience in building and maintaining scalable web and mobile applications. My projects span across frontend, backend, and mobile development, leveraging modern technologies to create seamless user experiences.
+
+🔧 Tech Stack:
+
+Frontend: React, Angular, HTML, CSS, JavaScript, TypeScript
+Backend: DotNet, RESTful APIs, GraphQL, Nodejs
+Mobile: Android Studio
+Databases: Cassandra, MongoDB, MySQL, Redis, Firebase
+DevOps: Docker, CI/CD pipelines, AWS
+Testing: XUnit
+
+💻 What I love:
+
+Designing efficient and scalable backend systems
+Building mobile applications that work across platforms
+🌱 Currently learning: Advanced cloud architecture and System designs
+📫 Reach me at: https://www.linkedin.com/in/prince-prajapati-4807421a0/
+📈 Check out my projects below and let’s build something amazing!
